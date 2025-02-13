@@ -63,7 +63,7 @@ This project is licensed under the **MIT License** – feel free to modify and u
 
 ## **Contact**
 For any questions or collaborations, reach out via:
-📧 Email: your.email@example.com
+📧 Email: siddhartha.alwala@gmail.com
 
 ---
 ### **Happy Coding! 🚀**
