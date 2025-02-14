@@ -35,4 +35,9 @@ public class BankService {
 
         System.out.println("Final Balance: $" + account.getBalance());
     }
+
+    public double getAccountBalance(){
+        return account.getBalance();
+    }
+
 }
